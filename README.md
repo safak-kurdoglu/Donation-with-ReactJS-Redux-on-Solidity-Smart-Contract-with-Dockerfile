@@ -1,6 +1,6 @@
 # Donation-with-ReactJS-Redux-on-Solidity-Smart-Contract-with-Dockerfile
 
-Node modules is not included, to run it, you have to type npm i at client folder.
+Node modules is not included, to run it, at client folder you have to type : npm i 
 
 To run it at Docker container, at the client folder, you must type : 
 docker build -t react-docker .    
